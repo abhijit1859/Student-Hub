@@ -1,0 +1,29 @@
+.users{
+    display: grid;
+     grid-template-columns: repeat(3, 1fr);
+ 
+ 
+     gap: 10px;
+     padding: 20px;
+}
+
+
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#search{
+    margin-top: 20px;
+    margin-bottom: 2px;
+}
+
+.grps{
+    display: flex;
+    gap: 5px;
+    margin: 20px 10px;
+}

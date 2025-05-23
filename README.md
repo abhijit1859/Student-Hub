@@ -1,4 +1,4 @@
-# 🎓 Student Hub – Chat UI (React)
+# 🎓 Student Hub –  UI (React)
 
 A frontend-only **Student Chat Interface** built using React and plain CSS. This simulates a student communication space with general chat, study groups, and online users. No backend required.
 

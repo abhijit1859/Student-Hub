@@ -6,9 +6,8 @@ A frontend-only **Student Chat Interface** built using React and plain CSS. This
 
 
 
-> A clean interface with two chat sections and a sidebar showing online/offline/idle students. Switch tabs and see simulated states.
 
----
+
 
 ## 🧰 Tech Stack
 

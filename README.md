@@ -1,22 +1,57 @@
-# 📚 Student Hub - Chat UI
+# 🎓 Student Hub – Chat UI (React)
 
-A clean and modern React-based **Student Chat UI** that simulates a classroom communication space with **General Chat**, **Study Groups**, and a list of **Online Students**. No backend required — everything is done on the frontend using React.
-
- 
+A frontend-only **Student Chat Interface** built using React and plain CSS. This simulates a student communication space with general chat, study groups, and online users. No backend required.
 
 ---
 
-## ✨ Features
 
-- 💬 **Tab Switching**: Toggle between "General Chat" and "Study Groups"
-- 👥 **Study Groups Prompt**: Suggests creating or joining a study group
-- 🟢 **Online Users List**: Displays students with avatars and online status (online, idle, offline)
-- 🎨 **Clean UI**: Styled using custom CSS for simplicity and clarity
-- ⚛️ **React Hooks**: Built using modern functional components and `useState`
+
+> A clean interface with two chat sections and a sidebar showing online/offline/idle students. Switch tabs and see simulated states.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-- **React** (CRA or Vite)
-- **HTML/CSS** (no libraries
+- ⚛️ React (with Create React App)
+- 🎨 Plain CSS (No Tailwind or Bootstrap)
+- ❌ No backend, database, or API
+
+---
+
+## 🛠 Installation & Setup
+
+Follow these steps to run the project locally on your machine.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/student-hub.git
+cd student-hub
+```
+
+### 2. Install dependencies
+
+Make sure you have Node.js and npm installed. Then run:
+
+```bash
+npm install
+```
+
+This installs all required dependencies listed in `package.json`.
+
+### 3. Start the development server
+
+```bash
+npm start
+```
+
+This runs the app in development mode.
+
+
+
+
+
+
+
+
+

@@ -11,7 +11,7 @@ A frontend-only **Student Chat Interface** built using React and plain CSS. This
 
 ## 🧰 Tech Stack
 
-- ⚛️ React (with Create React App)
+- ⚛️ React  
 - 🎨 Plain CSS (No Tailwind or Bootstrap)
 - ❌ No backend, database, or API
 
